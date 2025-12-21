@@ -1,4 +1,4 @@
-# Hi there, I'm Jerico Oliver 👋
+# Hi there, I'm Jerico Oliver
 
 <div align="center">
   
@@ -8,7 +8,7 @@
   
 </div>
 
-## <img src="assets/icons/rocket.gif" width="30px" height="30px"> Frontend Developer | UI/UX Enthusiast
+## <img src="assets/icons/rocket.gif" width="25px" > Frontend Developer | UI/UX Enthusiast
 
 I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
 
@@ -57,7 +57,7 @@ const jerico = {
 
 ---
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 
 ### 🍽️ [Dishlyst - Recipe Finder](https://github.com/jericho066/dishlyst)
 Dynamic recipe search app powered by TheMealDB API with real-time search and favorites management.
@@ -83,7 +83,7 @@ Feature-rich task management app with subtasks, recurring tasks, and smart filte
 - **Highlights**: Drag-and-drop, keyboard shortcuts, WCAG AA compliant
 - 🔗 [Live Demo](https://taskirra.vercel.app/) • [Case Study](https://portfolio-hjco.vercel.app/project.html?id=taskirra)
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
