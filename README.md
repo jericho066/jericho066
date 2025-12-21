@@ -8,7 +8,7 @@
   
 </div>
 
-## <img src="assets/icons/rocket.gif" width="30px" align="center" /> Frontend Developer | UI/UX Enthusiast
+## <img src="assets/icons/rocket.gif" width="40px" align="center" /> Frontend Developer | UI/UX Enthusiast
 
 I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
 
@@ -24,7 +24,7 @@ const jerico = {
 
 ---
 
-## <img src="assets/icons/career.gif" width="30px" align="center" /> What I Do
+## <img src="assets/icons/career.gif" width="40px" align="center" /> What I Do
 
 - 🎨 **Build Responsive Interfaces** - Mobile-first, pixel-perfect designs that work flawlessly across all devices
 - ⚡ **Optimize Performance** - Lightning-fast load times and smooth 60fps animations
@@ -33,7 +33,7 @@ const jerico = {
 
 ---
 
-## <img src="assets/icons/tools.gif" width="30px" align="center" /> Tech Stack
+## <img src="assets/icons/tools.gif" width="40px" align="center" /> Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -85,7 +85,7 @@ Feature-rich task management app with subtasks, recurring tasks, and smart filte
 
 --- -->
 
-## <img src="assets/icons/stats.gif" width="30px" align="center" /> GitHub Stats
+## <img src="assets/icons/stats.gif" width="40px" align="center" /> GitHub Stats
 
 <div align="center">
   
@@ -100,7 +100,7 @@ Feature-rich task management app with subtasks, recurring tasks, and smart filte
 ---
 
 
-## <img src="assets/icons/bulb.gif" width="30px" align="center" /> What Drives Me
+## <img src="assets/icons/bulb.gif" width="40px" align="center" /> What Drives Me
 
 > "Great design is invisible. Great code is maintainable. Great UX is delightful."
 
@@ -112,7 +112,7 @@ I believe that the best web experiences are built at the intersection of:
 
 ---
 
-## <img src="assets/icons/mailbox.gif" width="30px" align="center" /> Let's Connect!
+## <img src="assets/icons/mailbox.gif" width="40px" align="center" /> Let's Connect!
 
 I'm always open to interesting projects and collaborations. Whether you're looking to build something new or need help with an existing project, let's chat!
 
@@ -125,7 +125,7 @@ I'm always open to interesting projects and collaborations. Whether you're looki
 
 <div align="center">
   
-  ### <img src="assets/icons/thought.gif" width="30px" align="center" /> "Code is like humor. When you have to explain it, it's bad."
+  ### <img src="assets/icons/thought.gif" width="40px" align="center" /> "Code is like humor. When you have to explain it, it's bad."
   
   ![Profile Views](https://komarev.com/ghpvc/?username=jericho066&color=6C5CE7&style=flat-square&label=Profile+Views)
   
