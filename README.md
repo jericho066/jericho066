@@ -13,13 +13,64 @@
 I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
 
 ```javascript
-const jerico = {
-    location: "Urdaneta City, Philippines 🇵🇭",
-    role: "Frontend Developer",
-    focus: ["React", "JavaScript", "Responsive Design", "Web Accessibility"],
-    currentlyLearning: "Advanced React Patterns & Performance Optimization",
-    funFact: "I believe great UX is invisible - users shouldn't notice it, they should just feel it works"
-};
+class JericoOliver extends FrontendDeveloper {
+  
+  name = "Jerico Oliver";
+  location = "Urdaneta City, Philippines 🇵🇭";
+  title = "Frontend Developer & UI/UX Enthusiast";
+  
+  #projectsShipped = "15+";
+  #coffeeConsumed = "∞";
+  
+  get currentFocus() {
+    return "Crafting pixel-perfect, accessible web experiences that users love";
+  }
+  
+  get techStack() {
+    return {
+      frontend: ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
+      styling: ["Tailwind CSS", "Bootstrap", "SASS/SCSS"],
+      tools: ["Git & GitHub", "VS Code", "Vite", "npm"],
+      specialties: ["Responsive Design", "Web Accessibility (WCAG 2.1)", "Performance Optimization"]
+    };
+  }
+  
+  get currentlyLearning() {
+    return ["Advanced React Patterns", "TypeScript", "Next.js", "Testing with Jest"];
+  }
+  
+  get workingOn() {
+    return [
+      "Building Taskirra - A feature-rich task manager",
+      "Improving web accessibility across all projects",
+      "Contributing to open-source projects"
+    ];
+  }
+  
+  get superpowers() {
+    return [
+      "🎨 Turning Figma designs into pixel-perfect reality",
+      "⚡ Optimizing load times from 5s to <1s",
+      "♿ Making the web accessible to everyone",
+      "🐛 Debugging with Chrome DevTools like a detective"
+    ];
+  }
+  
+  get philosophy() {
+    return "Great UX is invisible - users shouldn't notice it, they should just feel it works ✨";
+  }
+  
+  collaborate() {
+    return "Always open to interesting projects and learning opportunities! 🤝";
+  }
+  
+  sayHi() {
+    console.log("👋 Hey! Let's build something amazing together!");
+  }
+}
+
+const dev = new JericoOliver();
+dev.sayHi();
 ```
 
 ---
