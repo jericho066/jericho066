@@ -8,7 +8,7 @@
   
 </div>
 
-## <img src="assets/icons/rocket.gif" width="20px"> Frontend Developer | UI/UX Enthusiast
+## <img src="assets/icons/rocket.gif" width="30px"> Frontend Developer | UI/UX Enthusiast
 
 I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
 
