@@ -82,7 +82,7 @@ Building mobile-first, pixel-perfect interfaces that work flawlessly across all 
 - Flexible Grid Systems
 - Adaptive Images & Media
 
-![Progress](https://progress-bar.dev/95/?title=Expertise&width=200&color=6C5CE7)
+**Expertise:** `███████████████████░` 95%
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +96,7 @@ Crafting lightning-fast experiences with optimized load times and smooth 60fps a
 - Lighthouse Auditing
 - Core Web Vitals
 
-![Progress](https://progress-bar.dev/90/?title=Expertise&width=200&color=6C5CE7)
+**Expertise:** `██████████████████░░` 90%
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ Creating WCAG 2.1 AA compliant applications that everyone can use, regardless of
 - Keyboard Navigation
 - Screen Reader Testing
 
-![Progress](https://progress-bar.dev/88/?title=Expertise&width=200&color=6C5CE7)
+**Expertise:** `█████████████████░░░` 88%
 
 </td>
 <td width="50%" valign="top">
@@ -127,7 +127,7 @@ Writing maintainable, well-documented code following industry standards and best
 - Git Workflow & Version Control
 - Code Review & Refactoring
 
-![Progress](https://progress-bar.dev/92/?title=Expertise&width=200&color=6C5CE7)
+**Expertise:** `██████████████████░░` 92%
 
 </td>
 </tr>
