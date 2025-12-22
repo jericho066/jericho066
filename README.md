@@ -180,16 +180,50 @@ graph LR
 
 ---
 
-
 ## <img src="assets/icons/bulb.gif" width="40px" align="center" /> What Drives Me
 
-> "Great design is invisible. Great code is maintainable. Great UX is delightful."
+<div align="center">
 
-I believe that the best web experiences are built at the intersection of:
-- **Performance** - Fast load times and smooth interactions
-- **Accessibility** - Inclusive design for everyone
-- **Maintainability** - Clean code that scales
-- **User Delight** - Thoughtful details that make users smile
+### *"Great design is invisible. Great code is maintainable. Great UX is delightful."*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="80px"/>
+<h3>⚡ Performance</h3>
+<p>Fast load times and smooth interactions that keep users engaged</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/accessibility.png" width="80px"/>
+<h3>♿ Accessibility</h3>
+<p>Inclusive design that works for everyone, regardless of ability</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80px"/>
+<h3>🧩 Maintainability</h3>
+<p>Clean, documented code that scales with your project</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/sparkling.png" width="80px"/>
+<h3>✨ User Delight</h3>
+<p>Thoughtful details and micro-interactions that make users smile</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🎯 My Mission
+
+Building web experiences at the intersection of **beauty**, **speed**, and **inclusivity** — where every user feels valued and every interaction feels natural.
+
+</div>
 
 ---
 
