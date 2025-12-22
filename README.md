@@ -40,7 +40,7 @@ I don't just write code—I solve problems. Every project is an opportunity to c
 </td>
 <td width="40%" valign="top">
 
-<div align="center">
+<div>
 
 ### 🚀 Quick Facts
 
