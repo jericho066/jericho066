@@ -227,15 +227,55 @@ graph LR
 
 ---
 
-## <img src="assets/icons/stats.gif" width="40px" align="center" /> GitHub Stats
+
+## <img src="assets/icons/stats.gif" width="40px" align="center" /> GitHub Stats & Activity
 
 <div align="center">
+
+### 📊 My Coding Journey in Numbers
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jericho066&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=FFFFFF)
+  <img src="https://github-readme-stats.vercel.app/api?username=jericho066&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jericho066&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=FFFFFF)
+</td>
+<td width="50%" align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jericho066&theme=radical&hide_border=true&background=0D1117&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jericho066&theme=radical&hide_border=true&background=0D1117&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" alt="GitHub Streak" />
+  
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jericho066&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=jericho066&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<br/>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jericho066&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C5CE7&line=6C5CE7&point=FFFFFF" alt="Contribution Graph" />
+
+<br/>
+
+### 💡 Quick Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jericho066&theme=radical" alt="Profile Details" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jericho066&color=6C5CE7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
