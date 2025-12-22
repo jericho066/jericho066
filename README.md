@@ -12,6 +12,10 @@
 
 I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ```javascript
 class JericoOliver extends FrontendDeveloper {
   
@@ -34,6 +38,12 @@ class JericoOliver extends FrontendDeveloper {
       specialties: ["Responsive Design", "Web Accessibility (WCAG 2.1)", "Performance Optimization"]
     };
   }
+```
+
+</td>
+<td width="50%" valign="top">
+
+```javascript
   
   get currentlyLearning() {
     return ["Advanced React Patterns", "TypeScript", "Next.js", "Testing with Jest"];
@@ -44,7 +54,7 @@ class JericoOliver extends FrontendDeveloper {
       "🎨 Turning Figma designs into pixel-perfect reality",
       "⚡ Optimizing load times from 5s to <1s",
       "♿ Making the web accessible to everyone",
-      "🐛 Debugging with Chrome DevTools like a detective"
+      "🛠 Debugging with Chrome DevTools like a detective"
     ];
   }
   
@@ -65,6 +75,10 @@ const dev = new JericoOliver();
 dev.sayHi();
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## <img src="assets/icons/career.gif" width="40px" align="center" /> What I Do
@@ -82,7 +96,6 @@ Building mobile-first, pixel-perfect interfaces that work flawlessly across all 
 - Flexible Grid Systems
 - Adaptive Images & Media
 
-**Expertise:** `███████████████████░` 95%
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +109,6 @@ Crafting lightning-fast experiences with optimized load times and smooth 60fps a
 - Lighthouse Auditing
 - Core Web Vitals
 
-**Expertise:** `██████████████████░░` 90%
 
 </td>
 </tr>
@@ -113,7 +125,6 @@ Creating WCAG 2.1 AA compliant applications that everyone can use, regardless of
 - Keyboard Navigation
 - Screen Reader Testing
 
-**Expertise:** `█████████████████░░░` 88%
 
 </td>
 <td width="50%" valign="top">
@@ -127,7 +138,6 @@ Writing maintainable, well-documented code following industry standards and best
 - Git Workflow & Version Control
 - Code Review & Refactoring
 
-**Expertise:** `██████████████████░░` 92%
 
 </td>
 </tr>
