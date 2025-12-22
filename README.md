@@ -52,10 +52,6 @@ class JericoOliver extends FrontendDeveloper {
   #projectsShipped = "15+";
   #coffeeConsumed = "∞";
   
-  get currentFocus() {
-    return "Crafting pixel-perfect, accessible web experiences that users love";
-  }
-  
   get techStack() {
     return {
       frontend: [
@@ -91,34 +87,14 @@ class JericoOliver extends FrontendDeveloper {
       "Testing with Jest"
     ];
   }
-  
-  get superpowers() {
-    return [
-      "🎨 Turning Figma designs into pixel-perfect reality", 
-      "⚡ Optimizing load times from 5s to <1s", 
-      "♿ Making the web accessible to everyone", 
-      "🛠 Debugging with Chrome DevTools like a detective"
-    ];
-  }
-  
-  get philosophy() {
-    return "Great UX is invisible - users shouldn't notice it, they should just feel it works ✨";
-  }
-  
-  collaborate() { return "Always open to interesting projects and learning opportunities! 🤝"; }
-  
-  sayHi() { console.log("👋 Hey! Let's build something amazing together!"); }
 }
-
-const dev = new JericoOliver();
-dev.sayHi();
 ```
 
 <br/>
 
 ### 🎨 Philosophy
 
-> *"The best interfaces are invisible—users shouldn't think about the UI, they should just accomplish their goals effortlessly."*
+> *"Great UX is invisible - users shouldn't notice it, they should just feel it works."*
 
 <br/>
 
