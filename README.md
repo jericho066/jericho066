@@ -1,4 +1,4 @@
-# <img src="assets/icons/hi.gif" width="50px" align="center" /> Hi there, I'm Jerico Oliver
+# Hi there <img src="assets/icons/hi.gif" width="50px" align="center" />, I'm Jerico Oliver
 
 <div align="center">
   
@@ -69,10 +69,90 @@ dev.sayHi();
 
 ## <img src="assets/icons/career.gif" width="40px" align="center" /> What I Do
 
-- 🎨 **Build Responsive Interfaces** - Mobile-first, pixel-perfect designs that work flawlessly across all devices
-- ⚡ **Optimize Performance** - Lightning-fast load times and smooth 60fps animations
-- ♿ **Ensure Accessibility** - WCAG 2.1 AA compliant applications with full keyboard navigation
-- 🧩 **Write Clean Code** - Maintainable, well-documented code following industry best practices
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Responsive Design
+Building mobile-first, pixel-perfect interfaces that work flawlessly across all devices and screen sizes.
+
+**Skills:**
+- Mobile-First Approach
+- Cross-Browser Compatibility
+- Flexible Grid Systems
+- Adaptive Images & Media
+
+![Progress](https://progress-bar.dev/95/?title=Expertise&width=200&color=6C5CE7)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Performance Optimization
+Crafting lightning-fast experiences with optimized load times and smooth 60fps animations.
+
+**Skills:**
+- Code Splitting & Lazy Loading
+- Asset Optimization
+- Lighthouse Auditing
+- Core Web Vitals
+
+![Progress](https://progress-bar.dev/90/?title=Expertise&width=200&color=6C5CE7)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ♿ Web Accessibility
+Creating WCAG 2.1 AA compliant applications that everyone can use, regardless of ability.
+
+**Skills:**
+- Semantic HTML Structure
+- ARIA Labels & Roles
+- Keyboard Navigation
+- Screen Reader Testing
+
+![Progress](https://progress-bar.dev/88/?title=Expertise&width=200&color=6C5CE7)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Clean Code Practices
+Writing maintainable, well-documented code following industry standards and best practices.
+
+**Skills:**
+- Component Architecture
+- Code Documentation
+- Git Workflow & Version Control
+- Code Review & Refactoring
+
+![Progress](https://progress-bar.dev/92/?title=Expertise&width=200&color=6C5CE7)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 My Development Process
+
+```mermaid
+graph LR
+    A[📋 Requirements] --> B[🎨 Design Review]
+    B --> C[⚙️ Development]
+    C --> D[🧪 Testing]
+    D --> E[🚀 Deployment]
+    E --> F[📊 Monitoring]
+    F --> G[🔄 Iterate]
+    style A fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
+```
 
 ---
 
