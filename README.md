@@ -10,50 +10,76 @@
 
 ## <img src="assets/icons/rocket.gif" width="40px" align="center" /> About Me
 
-I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
+<div align="center">
 
-```javascript
-class JericoOliver extends FrontendDeveloper {
-  name = "Hero Jerico Oliver";
-  location = "Urdaneta City, Philippines 🇵🇭";
-  title = "Frontend Developer";
-  #projectsShipped = "15+";
-  #coffeeConsumed = "∞";
-  
-  get currentFocus() {
-    return "Crafting pixel-perfect, accessible web experiences that users love";
-  }
-  
-  get techStack() {
-    return {
-      frontend: ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
-      styling: ["Tailwind CSS", "Bootstrap", "SASS/SCSS"],
-      tools: ["Git & GitHub", "VS Code", "Vite", "npm"],
-      specialties: ["Responsive Design", "Web Accessibility (WCAG 2.1)", "Performance Optimization"]
-    };
-  }
-  
-  get currentlyLearning() {
-    return ["Advanced React Patterns", "TypeScript", "Next.js", "Testing with Jest"];
-  }
-  
-  get superpowers() {
-    return ["🎨 Turning Figma designs into pixel-perfect reality", "⚡ Optimizing load times from 5s to <1s", 
-            "♿ Making the web accessible to everyone", "🛠 Debugging with Chrome DevTools like a detective"];
-  }
-  
-  get philosophy() {
-    return "Great UX is invisible - users shouldn't notice it, they should just feel it works ✨";
-  }
-  
-  collaborate() { return "Always open to interesting projects and learning opportunities! 🤝"; }
-  
-  sayHi() { console.log("👋 Hey! Let's build something amazing together!"); }
-}
+### 👋 Hey there! I'm Jerico
 
-const dev = new JericoOliver();
-dev.sayHi();
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **freelance frontend developer** from the **Philippines 🇵🇭** with a passion for crafting **beautiful, performant, and accessible** web applications. I believe great user experiences happen when **design meets clean code**.
+
+### 🎯 What I Bring to the Table
+
+- ✨ **Pixel-Perfect Implementation** - I turn Figma designs into flawless, responsive interfaces
+- ⚡ **Performance-Focused** - Optimizing load times and ensuring buttery-smooth interactions
+- ♿ **Accessibility Advocate** - Building inclusive web experiences following WCAG 2.1 standards
+- 🧩 **Clean Code Enthusiast** - Writing maintainable, well-documented code that scales
+
+### 💼 My Approach
+
+I don't just write code—I solve problems. Every project is an opportunity to create something that:
+- **Delights users** with intuitive interfaces
+- **Performs exceptionally** across all devices
+- **Scales gracefully** as your business grows
+- **Works for everyone** regardless of ability
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+
+### 🚀 Quick Facts
+
+```yaml
+name: Hero Jerico Oliver
+location: Urdaneta City, Philippines
+role: Frontend Developer
+experience: Freelance
+specialization: React & Modern JavaScript
+
+stats:
+  projects_shipped: 15+
+  coffee_consumed: ∞
+  lines_of_code: 50,000+
+  happy_clients: Growing!
+
+working_hours:
+  timezone: GMT+8 (PHT)
+  availability: Remote Friendly
+  languages: English, Filipino
 ```
+
+<br/>
+
+### 🎨 Philosophy
+
+> *"The best interfaces are invisible—users shouldn't think about the UI, they should just accomplish their goals effortlessly."*
+
+<br/>
+
+### 📫 Let's Build Together!
+
+Currently **accepting new projects** for **2025**
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -387,8 +413,6 @@ I'm always excited to collaborate on interesting projects! Whether you need a **
 <div align="center">
   
   ### <img src="assets/icons/thought.gif" width="40px" align="center" /> "Code is like humor. When you have to explain it, it's bad."
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jericho066&color=6C5CE7&style=flat-square&label=Profile+Views)
   
   **Thanks for stopping by! Let's build something amazing together! 🚀**
   
