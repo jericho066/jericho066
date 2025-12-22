@@ -1,4 +1,4 @@
-# Hi there, I'm Jerico Oliver
+# <img src="assets/icons/hi.gif" width="50px" align="center" /> Hi there, I'm Jerico Oliver
 
 <div align="center">
   
@@ -8,16 +8,16 @@
   
 </div>
 
-## <img src="assets/icons/rocket.gif" width="40px" align="center" /> Frontend Developer | UI/UX Enthusiast
+## <img src="assets/icons/rocket.gif" width="40px" align="center" /> About Me
 
 I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
 
 ```javascript
 class JericoOliver extends FrontendDeveloper {
   
-  name = "Jerico Oliver";
+  name = "Hero Jerico Oliver";
   location = "Urdaneta City, Philippines 🇵🇭";
-  title = "Frontend Developer & UI/UX Enthusiast";
+  title = "Frontend Developer";
   
   #projectsShipped = "15+";
   #coffeeConsumed = "∞";
@@ -37,14 +37,6 @@ class JericoOliver extends FrontendDeveloper {
   
   get currentlyLearning() {
     return ["Advanced React Patterns", "TypeScript", "Next.js", "Testing with Jest"];
-  }
-  
-  get workingOn() {
-    return [
-      "Building Taskirra - A feature-rich task manager",
-      "Improving web accessibility across all projects",
-      "Contributing to open-source projects"
-    ];
   }
   
   get superpowers() {
@@ -107,34 +99,6 @@ dev.sayHi();
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
-
-<!-- ## 🌟 Featured Projects
-
-### 🍽️ [Dishlyst - Recipe Finder](https://github.com/jericho066/dishlyst)
-Dynamic recipe search app powered by TheMealDB API with real-time search and favorites management.
-- **Tech**: React, API Integration, LocalStorage
-- **Highlights**: Sub-2s load times, offline favorites, responsive design
-- 🔗 [Live Demo](https://jericho066.github.io/dishlyst/) • [Case Study](https://portfolio-hjco.vercel.app/project.html?id=dishlyst)
-
-### 💰 [Monivra - Expense Tracker](https://github.com/jericho066/monivra)
-Personal finance web app with visual analytics and data export for complete privacy.
-- **Tech**: React, Recharts, LocalStorage
-- **Highlights**: 100% client-side, interactive charts, CSV/JSON export
-- 🔗 [Live Demo](https://jericho066.github.io/monivra/) • [Case Study](https://portfolio-hjco.vercel.app/project.html?id=monivra)
-
-### 🎨 [Creavyn - Portfolio Builder](https://github.com/jericho066/creavyn)
-No-code portfolio builder with drag-and-drop, live preview, and one-click export.
-- **Tech**: React, React Router, dnd-kit
-- **Highlights**: Undo/redo, device preview, semantic HTML export
-- 🔗 [Live Demo](https://creavyn.vercel.app/) • [Case Study](https://portfolio-hjco.vercel.app/project.html?id=creavyn)
-
-### ✅ [Taskirra - Task Manager](https://github.com/jericho066/taskirra)
-Feature-rich task management app with subtasks, recurring tasks, and smart filtering.
-- **Tech**: React, Vite, Bootstrap 5, @dnd-kit
-- **Highlights**: Drag-and-drop, keyboard shortcuts, WCAG AA compliant
-- 🔗 [Live Demo](https://taskirra.vercel.app/) • [Case Study](https://portfolio-hjco.vercel.app/project.html?id=taskirra)
-
---- -->
 
 ## <img src="assets/icons/stats.gif" width="40px" align="center" /> GitHub Stats
 
