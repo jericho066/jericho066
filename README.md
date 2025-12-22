@@ -1,4 +1,4 @@
-# Hi there <img src="assets/icons/hi.gif" width="50px" />, I'm Jerico Oliver
+# Hi there <img src="assets/icons/hi.gif" width="50px" align="center" />, I'm Jerico Oliver
 
 <div align="center">
   
@@ -12,17 +12,11 @@
 
 I'm a **freelance frontend developer** passionate about building clean, performant, and accessible web applications. I specialize in transforming designs into seamless user experiences with **React**, **JavaScript**, and modern web technologies.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```javascript
 class JericoOliver extends FrontendDeveloper {
-  
   name = "Hero Jerico Oliver";
   location = "Urdaneta City, Philippines 🇵🇭";
   title = "Frontend Developer";
-  
   #projectsShipped = "15+";
   #coffeeConsumed = "∞";
   
@@ -38,46 +32,28 @@ class JericoOliver extends FrontendDeveloper {
       specialties: ["Responsive Design", "Web Accessibility (WCAG 2.1)", "Performance Optimization"]
     };
   }
-```
-
-</td>
-<td width="50%" valign="top">
-
-```javascript
   
   get currentlyLearning() {
     return ["Advanced React Patterns", "TypeScript", "Next.js", "Testing with Jest"];
   }
   
   get superpowers() {
-    return [
-      "🎨 Turning Figma designs into pixel-perfect reality",
-      "⚡ Optimizing load times from 5s to <1s",
-      "♿ Making the web accessible to everyone",
-      "🛠 Debugging with Chrome DevTools like a detective"
-    ];
+    return ["🎨 Turning Figma designs into pixel-perfect reality", "⚡ Optimizing load times from 5s to <1s", 
+            "♿ Making the web accessible to everyone", "🛠 Debugging with Chrome DevTools like a detective"];
   }
   
   get philosophy() {
     return "Great UX is invisible - users shouldn't notice it, they should just feel it works ✨";
   }
   
-  collaborate() {
-    return "Always open to interesting projects and learning opportunities! 🤝";
-  }
+  collaborate() { return "Always open to interesting projects and learning opportunities! 🤝"; }
   
-  sayHi() {
-    console.log("👋 Hey! Let's build something amazing together!");
-  }
+  sayHi() { console.log("👋 Hey! Let's build something amazing together!"); }
 }
 
 const dev = new JericoOliver();
 dev.sayHi();
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
