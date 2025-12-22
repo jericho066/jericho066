@@ -1,4 +1,4 @@
-# Hi there <img src="assets/icons/hi.gif" width="50px" align="center" />, I'm Jerico Oliver
+# Hi there <img src="assets/icons/hi.gif" width="50px" />, I'm Jerico Oliver
 
 <div align="center">
   
