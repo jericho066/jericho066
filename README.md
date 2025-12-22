@@ -37,6 +37,19 @@ I don't just write code—I solve problems. Every project is an opportunity to c
 - **Scales gracefully** as your business grows
 - **Works for everyone** regardless of ability
 
+
+<br/>
+
+### 🎨 Philosophy
+
+> *"Great UX is invisible - users shouldn't notice it, they should just feel it works."*
+
+<br/>
+
+### 📫 Let's Build Together!
+
+Currently **accepting new projects** for **2025**
+
 </td>
 <td width="40%" valign="top">
 
@@ -90,17 +103,6 @@ class JericoOliver extends FrontendDeveloper {
 }
 ```
 
-<br/>
-
-### 🎨 Philosophy
-
-> *"Great UX is invisible - users shouldn't notice it, they should just feel it works."*
-
-<br/>
-
-### 📫 Let's Build Together!
-
-Currently **accepting new projects** for **2025**
 
 </div>
 
