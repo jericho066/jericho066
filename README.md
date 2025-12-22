@@ -56,47 +56,47 @@ Currently **accepting new projects** for **2025**
 
 ```javascript
 class JericoOliver extends FrontendDeveloper {
-  name = "Hero Jerico Oliver";
-  location = "Urdaneta City, Philippines 🇵🇭";
-  title = "Frontend Developer";
-  #projectsShipped = "15+";
-  #coffeeConsumed = "∞";
-  
-  get techStack() {
-    return {
-      frontend: [
-        "React", 
-        "JavaScript (ES6+)", 
-        "HTML5", 
-        "CSS3"
-      ],
-      styling: [
-        "Tailwind CSS", 
-        "Bootstrap", 
-        "SASS/SCSS"
-      ],
-      tools: [
-        "Git & GitHub", 
-        "VS Code", 
-        "Vite", 
-        "npm"
-      ],
-      specialties: [
-        "Responsive Design", 
-        "Web Accessibility (WCAG 2.1)", 
-        "Performance Optimization"
-      ]
-    };
-  }
-  
-  get currentlyLearning() {
-    return [
-      "Advanced React Patterns", 
-      "TypeScript", 
-      "Next.js", 
-      "Testing with Jest"
-    ];
-  }
+    name = "Hero Jerico Oliver";
+    location = "Urdaneta City, Philippines 🇵🇭";
+    title = "Frontend Developer";
+    #projectsShipped = "15+";
+    #coffeeConsumed = "∞";
+    
+    get techStack() {
+        return {
+            frontend: [
+                "React", 
+                "JavaScript (ES6+)", 
+                "HTML5", 
+                "CSS3"
+            ],
+            styling: [
+                "Tailwind CSS", 
+                "Bootstrap", 
+                "SASS/SCSS"
+            ],
+            tools: [
+                "Git & GitHub", 
+                "VS Code", 
+                "Vite", 
+                "npm"
+            ],
+            specialties: [
+                "Responsive Design", 
+                "Web Accessibility (WCAG 2.1)", 
+                "Performance Optimization"
+            ]
+        };
+    }
+    
+    get currentlyLearning() {
+      return [
+        "Advanced React Patterns", 
+        "TypeScript", 
+        "Next.js", 
+        "Testing with Jest"
+      ];
+    }
 }
 ```
 
@@ -283,6 +283,7 @@ graph LR
 
 ---
 
+<br/>
 
 ## <img src="assets/icons/stats.gif" width="40px" align="center" /> GitHub Stats & Activity
 
@@ -352,23 +353,23 @@ graph LR
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="80px"/>
-<h3>⚡ Performance</h3>
+<img src="assets/icons/performance.gif" width="80px"/>
+<h3>Performance</h3>
 <p>Fast load times and smooth interactions that keep users engaged</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/accessibility.png" width="80px"/>
-<h3>♿ Accessibility</h3>
+<img src="assets/icons/accessibility.gif" width="80px"/>
+<h3>Accessibility</h3>
 <p>Inclusive design that works for everyone, regardless of ability</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80px"/>
-<h3>🧩 Maintainability</h3>
+<img src="assets/icons/code.gif" width="80px"/>
+<h3>Maintainability</h3>
 <p>Clean, documented code that scales with your project</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/sparkling.png" width="80px"/>
-<h3>✨ User Delight</h3>
+<img src="assets/icons/delight.gif" width="80px"/>
+<h3>User Delight</h3>
 <p>Thoughtful details and micro-interactions that make users smile</p>
 </td>
 </tr>
