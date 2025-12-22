@@ -283,7 +283,6 @@ graph LR
 
 ---
 
-<br/>
 
 ## <img src="assets/icons/stats.gif" width="40px" align="center" /> GitHub Stats & Activity
 
