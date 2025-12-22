@@ -58,20 +58,47 @@ class JericoOliver extends FrontendDeveloper {
   
   get techStack() {
     return {
-      frontend: ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
-      styling: ["Tailwind CSS", "Bootstrap", "SASS/SCSS"],
-      tools: ["Git & GitHub", "VS Code", "Vite", "npm"],
-      specialties: ["Responsive Design", "Web Accessibility (WCAG 2.1)", "Performance Optimization"]
+      frontend: [
+        "React", 
+        "JavaScript (ES6+)", 
+        "HTML5", 
+        "CSS3"
+      ],
+      styling: [
+        "Tailwind CSS", 
+        "Bootstrap", 
+        "SASS/SCSS"
+      ],
+      tools: [
+        "Git & GitHub", 
+        "VS Code", 
+        "Vite", 
+        "npm"
+      ],
+      specialties: [
+        "Responsive Design", 
+        "Web Accessibility (WCAG 2.1)", 
+        "Performance Optimization"
+      ]
     };
   }
   
   get currentlyLearning() {
-    return ["Advanced React Patterns", "TypeScript", "Next.js", "Testing with Jest"];
+    return [
+      "Advanced React Patterns", 
+      "TypeScript", 
+      "Next.js", 
+      "Testing with Jest"
+    ];
   }
   
   get superpowers() {
-    return ["🎨 Turning Figma designs into pixel-perfect reality", "⚡ Optimizing load times from 5s to <1s", 
-            "♿ Making the web accessible to everyone", "🛠 Debugging with Chrome DevTools like a detective"];
+    return [
+      "🎨 Turning Figma designs into pixel-perfect reality", 
+      "⚡ Optimizing load times from 5s to <1s", 
+      "♿ Making the web accessible to everyone", 
+      "🛠 Debugging with Chrome DevTools like a detective"
+    ];
   }
   
   get philosophy() {
