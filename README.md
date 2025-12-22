@@ -107,8 +107,9 @@ class JericoOliver extends FrontendDeveloper {
 </tr>
 </table>
 
-<br/>
 ---
+
+<br/>
 
 ## <img src="assets/icons/career.gif" width="40px" align="center" /> What I Do
 
@@ -193,8 +194,9 @@ graph LR
     style G fill:#6C5CE7,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
-<br/>
 ---
+
+<br/>
 
 ## <img src="assets/icons/tools.gif" width="40px" align="center" /> Tech Stack & Tools
 
@@ -279,9 +281,9 @@ graph LR
 
 </div>
 
-<br/>
 ---
 
+<br/>
 
 ## <img src="assets/icons/stats.gif" width="40px" align="center" /> GitHub Stats & Activity
 
@@ -334,8 +336,9 @@ graph LR
 
 </div>
 
-<br/>
 ---
+
+<br/>
 
 ## <img src="assets/icons/bulb.gif" width="40px" align="center" /> What Drives Me
 
@@ -382,8 +385,9 @@ Building web experiences at the intersection of **beauty**, **speed**, and **inc
 
 </div>
 
-<br/>
 ---
+
+<br/>
 
 ## <img src="assets/icons/mailbox.gif" width="40px" align="center" /> Let's Connect!
 
@@ -439,8 +443,9 @@ I'm always excited to collaborate on interesting projects! Whether you need a **
 
 </div>
 
-<br/>
 ---
+
+<br/>
 
 <div align="center">
   
