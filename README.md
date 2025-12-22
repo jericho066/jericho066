@@ -195,12 +195,57 @@ I believe that the best web experiences are built at the intersection of:
 
 ## <img src="assets/icons/mailbox.gif" width="40px" align="center" /> Let's Connect!
 
-I'm always open to interesting projects and collaborations. Whether you're looking to build something new or need help with an existing project, let's chat!
+<div align="center">
 
-- 🌐 **Portfolio**: [portfolio-hjco.vercel.app](https://portfolio-hjco.vercel.app)
-- 💼 **LinkedIn**: [Hero Jerico Oliver](https://www.linkedin.com/in/hero-jerico-oliver-0a5113389/)
-- 📧 **Email**: oliverjerico97@gmail.com
-- 📱 **Facebook**: [hero.oliver.1](https://www.facebook.com/hero.oliver.1/)
+### 💼 Open for Freelance Projects | Available Starting January 2025
+
+I'm always excited to collaborate on interesting projects! Whether you need a **responsive website**, **React application**, or help **optimizing your existing frontend**, let's chat.
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://portfolio-hjco.vercel.app">
+<img src="https://img.icons8.com/fluency/96/000000/globe.png" width="60px" alt="Portfolio"/>
+<br/><b>Portfolio</b>
+<br/>View My Work
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/hero-jerico-oliver-0a5113389/">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60px" alt="LinkedIn"/>
+<br/><b>LinkedIn</b>
+<br/>Let's Network
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:oliverjerico97@gmail.com">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60px" alt="Email"/>
+<br/><b>Email</b>
+<br/>Send a Message
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.facebook.com/hero.oliver.1/">
+<img src="https://img.icons8.com/fluency/96/000000/facebook.png" width="60px" alt="Facebook"/>
+<br/><b>Facebook</b>
+<br/>Stay Connected
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🚀 Looking For:
+**React Development** • **UI/UX Implementation** • **Frontend Optimization** • **Website Development**
+
+<br/>
+
+### ⚡ Quick Response Time | 🌏 Remote Friendly | 💬 English & Filipino
+
+</div>
 
 ---
 
