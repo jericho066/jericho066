@@ -449,7 +449,7 @@ I'm always excited to collaborate on interesting projects! Whether you need a **
 
 <div align="center">
   
-  ### <img src="assets/icons/thought.gif" width="40px" align="center" /> "Code is like humor. When you have to explain it, it's bad."
+  ### <img src="assets/icons/thought.gif" width="40px" align="center" /> "Every bug is a hidden lesson dressed in frustration; every fix, a small victory that stitches the world a little more tightly together."
   
   **Thanks for stopping by! Let's build something amazing together! 🚀**
   
