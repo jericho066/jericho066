@@ -45,7 +45,7 @@ I don't just write code—I solve problems. Every project is an opportunity to c
 
 ### 📫 Let's Build Together!
 
-Currently **accepting new projects** for **2025**
+Currently **accepting new projects** for **2026**
 
 </td>
 <td width="40%" valign="top">
@@ -59,6 +59,7 @@ class JericoOliver extends FrontendDeveloper {
     name = "Hero Jerico Oliver";
     location = "Urdaneta City, Philippines 🇵🇭";
     title = "Frontend Developer";
+
     #projectsShipped = "15+";
     #coffeeConsumed = "∞";
     
@@ -94,7 +95,8 @@ class JericoOliver extends FrontendDeveloper {
         "Advanced React Patterns", 
         "TypeScript", 
         "Next.js", 
-        "Testing with Jest"
+        "Testing with Jest",
+        "Backend Principles"
       ];
     }
 }
